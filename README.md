@@ -3,41 +3,40 @@
 ## Course Outcome:
 At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google Android devices as well as ability to learn advanced topics through self study methods we will teach them. All students will be provided CDs containing software, project source code, as well as certificates for attending the course.
 
-#Full Syllabus:
+## Full Syllabus:
 
-1) Introduction To Mobile Apps
+# Introduction To Mobile Apps
+   1) Why we Need Mobile Apps
+   2) Different Kinds of Mobile Apps
+   3) Briefly about Android
 
-I. Why we Need Mobile Apps
-II. Different Kinds of Mobile Apps
-III. Briefly about Android
+# Introduction Android
 
-2) Introduction Android
+  1) History Behind Android Development
+  2) What is Android?
+  3) Pre-requisites to learn Android
+  4) Brief Discussion on Java Programming
 
-I. History Behind Android Development
-II. What is Android?
-III. Pre-requisites to learn Android
-IV. Brief Discussion on Java Programming
+# Android Architecture
 
-3) Android Architecture
+  I. Overview of Android Stack
+  II. Android Features
+  III. Introduction to OS layers
 
-I. Overview of Android Stack
-II. Android Features
-III. Introduction to OS layers
+# Deep Overview in Android Stack
 
-4) Deep Overview in Android Stack
+  I. Linux Kernel
+  II. Libraries
+  III. Android Runtime
+  IV. Application Framework
+  V. Dalvik VM
 
-I. Linux Kernel
-II. Libraries
-III. Android Runtime
-IV. Application Framework
-V. Dalvik VM
+# Installing Android Machine
 
-5) Installing Android Machine
-
-I. Configuring Android Stack
-II. Setting up Android Studio
-III. Working with Android Studio
-IV. Using Older Android Tools
+  I. Configuring Android Stack
+  II. Setting up Android Studio
+  III. Working with Android Studio
+  IV. Using Older Android Tools
 
 6) Creating First Android Application
 
