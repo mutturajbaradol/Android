@@ -1,9 +1,9 @@
 # Android
 
-Course Outcome:
+##Course Outcome:
 At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google Android devices as well as ability to learn advanced topics through self study methods we will teach them. All students will be provided CDs containing software, project source code, as well as certificates for attending the course.
 
-Full Syllabus:
+#Full Syllabus:
 
 1) Introduction To Mobile Apps
 
