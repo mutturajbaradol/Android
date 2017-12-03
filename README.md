@@ -1,29 +1,29 @@
 # Android
 
 ## Course Outcome:
-At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google Android devices as well as ability to learn advanced topics through self study methods we will teach them. All students will be provided CDs containing software, project source code, as well as certificates for attending the course.
+At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google playstore and publish their assignments to the blogs as a benchmark examples for the world wide developers.
 
 ## Full Syllabus:
 
-# Introduction To Mobile Apps
+# Introduction To Mobile Apps [Quiz 1]
    1) Why we Need Mobile Apps
    2) Different Kinds of Mobile Apps
    3) Briefly about Android
 
-# Introduction Android
+# Introduction Android [Quiz 2]
 
   1) History Behind Android Development
   2) What is Android?
   3) Pre-requisites to learn Android
   4) Brief Discussion on Java Programming
 
-# Android Architecture
+# Android Architecture [Quiz 3]
 
    1) Overview of Android Stack
    2) Android Features
    3) Introduction to OS layers
 
-# Deep Overview in Android Stack
+# Deep Overview in Android Stack [Quiz 4]
 
    1) Linux Kernel
    2) Libraries
@@ -31,14 +31,14 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Application Framework
    5) Dalvik VM
 
-# Installing Android Machine
+# Installing Android Machine [Assignment 1]
 
   1) Configuring Android Stack
   2) Setting up Android Studio
   3) Working with Android Studio
   4) Using Older Android Tools
 
-# Creating First Android Application
+# Creating First Android Application [Assignment 2]
 
    1) Creating Android Project
    2) Debugging Application through DDMS
