@@ -215,3 +215,39 @@ At the end on this course the students will gain enough knowledge to create and 
 
    1) Android Application Deployment on device with Linux and Windows
    2) Android Application Deployment on Android Market
+
+
+
+
+# Mile Stones
+## December
+
+### Week 1
+1) Website Development
+2) Training
+3) Requirement collections and architecture [Photo Editor] 
+
+### Week 2
+1) Website Development
+2) Training
+3) Photo editor Implementation
+
+### Week 3
+1) Training
+2) Photo Editor Playstore version
+3) Requirement collection and architecture [School Safety]
+
+### Week 4
+1) Training
+2) Backend Implementation - [School Safty] [Node JS]
+3) Send/ Reeive Push Notifiations
+
+# January
+
+## Week 1
+1) Training
+2) [School Safety]
+
+## Week 2
+1) Training
+2) [School Safety] - Play store
