@@ -19,203 +19,199 @@ At the end on this course the students will gain enough knowledge to create and 
 
 # Android Architecture
 
-  I. Overview of Android Stack
-  II. Android Features
-  III. Introduction to OS layers
+   1) Overview of Android Stack
+   2) Android Features
+   3) Introduction to OS layers
 
 # Deep Overview in Android Stack
 
-  I. Linux Kernel
-  II. Libraries
-  III. Android Runtime
-  IV. Application Framework
-  V. Dalvik VM
+   1) Linux Kernel
+   2) Libraries
+   3) Android Runtime
+   4) Application Framework
+   5) Dalvik VM
 
 # Installing Android Machine
 
-  I. Configuring Android Stack
-  II. Setting up Android Studio
-  III. Working with Android Studio
-  IV. Using Older Android Tools
+  1) Configuring Android Stack
+  2) Setting up Android Studio
+  3) Working with Android Studio
+  4) Using Older Android Tools
 
-6) Creating First Android Application
+# Creating First Android Application
 
-I. Creating Android Project
-II. Debugging Application through DDMS
-III. setting up environment
-IV. AVD Creation
-V. Executing Project on Android Screen
+   1) Creating Android Project
+   2) Debugging Application through DDMS
+   3) Setting up environment
+   4) AVD Creation
+   5) Executing Project on Android Screen
 
-7) Android Components
+#Android Components
 
-I. Activities
-II. Services
-III. Broadcast Receivers
-IV. Content Providers
+   1) Activities
+   2) Services
+   3) Broadcast Receivers
+   4) Content Providers
 
-8) Hello World App
+# Hello World App
+   1) Creating your first project
+   2) Manifest file
+   3) Layout resource
+   4) Running your app on Emulator
 
-I. Creating your first project
-II. The manifest file
-III. Layout resource
-IV. Running your app on Emulator
+# Building UI with Activities
 
-9) Building UI with Activities
+   1) Activities
+   2) Views, layouts and Common UI components
+   3) Creating UI through code and XML
+   4) Activity lifecycle
+   5) Intents
+   6) Communicating data among Activities
 
-I. Activities
-II. Views, layouts and Common UI components
-III. Creating UI through code and XML
-IV. Activity lifecycle
-V. Intents
-VI. Communicating data among Activities
+# Advanced UI
 
-10) Advanced UI
+   1) Selection components (GridView, ListView, Spinner )
+   2) Adapters, Custom Adapters
+   3) Complex UI components
+   4) Building UI for performance
+   5) Menus
+   6) Creating custom and compound Views
 
-I. Selection components (GridView, ListView, Spinner )
-II. Adapters, Custom Adapters
-III. Complex UI components
-IV. Building UI for performance
-V. Menus
-VI. Creating custom and compound Views
+# Notifications
 
-11) Notifications
+   1) Toast, Custom Toast
+   2) Dialogs
+   3) Status bar Notifications
 
-I. Toast, Custom Toast
-II. Dialogs
-III. Status bar Notifications
+# Multithreading
 
-12) Multithreading
+   1) Using Java Mutithreading classes
+   2) AsyncTask
+   3) Handler
+   4) Post
+   5) Writing an animated game
 
-I. Using Java Mutithreading classes
-II. AsyncTask
-III. Handler
-IV. Post
-V. Writing an animated game
+# Styles And Themes
 
-13) Styles And Themes
+   1) Creating and Applying simple Style
+   2) Inheriting built-in Style and User defined style
+   3) Using Styles as themes
 
-I. Creating and Applying simple Style
-II. Inheriting built-in Style and User defined style
-III. Using Styles as themes
+# Resources and Assets
 
-14) Resources and Assets
+   1) Android Resource
+   2) Using resources in XML and code
+   3) Localization
+   4) Handling Runtime configuration changes
 
-I. Android Resource
-II. Using resources in XML and code
-III. Localization
-IV. Handling Runtime configuration changes
+#  Intent, Intent Filters and Broadcast Receivers
 
-15) Intent, Intent Filters and Broadcast Receivers
+   1) Role of filters
+   2) Intent-matching rules
+   3) Filters in your manifest
+   4) Filters in dynamic Broadcast Receivers
+   5) Creating Broadcast receiver
 
-I. Role of filters
-II. Intent-matching rules
-III. Filters in your manifest
-IV. Filters in dynamic Broadcast Receivers
-V. Creating Broadcast receiver
+# Receiving System Broadcast
 
-Receiving System Broadcast
+   1) Understanding Broadcast action, category and data
+   2) Registering Broadcast receiver through code and through XML
+   3) Sending Broadcast
 
-VI. Understanding Broadcast action, category and data
-VII. Registering Broadcast receiver through code and through XML
-VIII. Sending Broadcast
+# Data Storage
 
-16) Data Storage
+   1) Shared Preferences
+   2) Android File System
+   3) Internal storage
+   4) External storage
+   5) SQLite
+   6) IntroducingSQLite
+   7) SQLiteOpenHelper and creating a database
+   8) Opening and closing adatabase
+   9) Working with cursors Inserts, updates, and deletes
 
-I. Shared Preferences
-II. Android File System
-III. Internal storage
-IV. External storage
-V. SQLite
+# Network
 
-a. IntroducingSQLite
-b. SQLiteOpenHelper and creating a database
-c. Opening and closing adatabase
-d. Working with cursors Inserts, updates, and deletes
-VI. Network
+## Content Providers
+   1) Accessing built in content providers
+   2) Content provider MIME types
+   3) Searching for content
+   4) Adding, changing, and removing content
+   5) Creating content provider
+   6) Working with content files
 
-17) Content Providers
+# Services
+   1) Overview of services in Android
+   2) Implementing a Service
+   3) Service lifecycle
+   4) Inter Process Communication (AIDL Services)
 
-I. Accessing built in content providers
-II. Content provider MIME types
-III. Searching for content
-IV. Adding, changing, and removing content
-V. Creating content provider
-VI. Working with content files
+# Multimedia in Android
 
-18)Services
+   1) Multimedia Supported audio formats
+   2) Simple media playback
+   3) Supported video formats
+   4) Simple video playback
 
-I. Overview of services in Android
-II. Implementing a Service
-III. Service lifecycle
-IV. Inter Process Communication (AIDL Services)
+# Location Based Services and Google Maps
 
-19) Multimedia in Android
+1) Using Location Based Services
+2) Finding current location and listening for changes in location
+3) Proximity alerts
+4) Working with Google Maps
+   i. Showing google map in an Activity
+   ii. Map Overlays
+   iii. Itemized overlays
+   iv. Geocoder
+5)Displaying route on map
 
-I. Multimedia Supported audio formats
-II. Simple media playback
-III. Supported video formats
-IV. Simple video playback
+# Web Services and WebView
 
-20) Location Based Services and Google Maps
+   1) Consuming web services
+   2) Receiving HTTP Response (XML, JSON )
+   3) Parsing JSON and XML
+   4) Using WebView
 
-I. Using Location Based Services
-II. Finding current location and listening for changes in location
-III. Proximity alerts
-IV. Working with Google Maps
-i. Showing google map in an Activity
-ii. Map Overlays
-iii. Itemized overlays
-iv. Geocoder
-v. Displaying route on map
+# Sensors
 
-21) Web Services and WebView
+   1) How Sensors work
+   2) Using Orientation and Accelerometer sensors
+   3) Best practices for performance
 
-I. Consuming web services
-II. Receiving HTTP Response (XML, JSON )
-III. Parsing JSON and XML
-IV. Using WebView
+# WiFi
 
-22) Sensors
+   1) Monitoring and managing Internet connectivity
+   2) Managing active connections
+   3) Managing WiFi networks
 
-I. How Sensors work
-II. Using Orientation and Accelerometer sensors
-III. Best practices for performance
+# Telephony Services
 
-23) WiFi
+   1) Making calls
+   2) Monitoring data connectivity and activity
+   3) Accessing phone properties and status
+   4) Controlling the phone
+   5) Eending messages
 
-I. Monitoring and managing Internet connectivity
-II. Managing active connections
-III. Managing WiFi networks
+# Camera
 
-24) Telephony Services
+   1) Taking pictures
+   2) Media Recorder
+   3) Rendering previews
 
-I. Making calls
-II. Monitoring data connectivity and activity
-III. Accessing phone properties and status
-IV. Controlling the phone
-V. Sending messages
+# Bluetooth
 
-25) Camera
+   1) Controlling local Bluetooth device
+   2) Discovering and bonding with Bluetooth devices
+   3) Managing Bluetooth connections
+   4) Communicating with Bluetooth
 
-I. Taking pictures
-II. Media Recorder
-III. Rendering previews
+#  More
+   1) Fragments
+   2) Material Design
+   3) Gradle
+   4) NEW TOPICS: Since each new version of Android has new features, we keep extra time for adding custom topics in every batch. You can request any Android Topic.
 
-26) Bluetooth
+# Android Application Deployment
 
-I. Controlling local Bluetooth device
-II. Discovering and bonding with Bluetooth devices
-III. Managing Bluetooth connections
-IV. Communicating with Bluetooth
-
-26) More
-
-I. Fragments
-II. Material Design
-III. Gradle
-IV. NEW TOPICS: Since each new version of Android has new features, we keep extra time for adding custom topics in every batch. You can request any Android Topic.
-
-28) Android Application Deployment
-
-I. Android Application Deployment on device with Linux and Windows
-II. Android Application Deployment on Android Market
+   1) Android Application Deployment on device with Linux and Windows
+   2) Android Application Deployment on Android Market
