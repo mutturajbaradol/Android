@@ -3,27 +3,27 @@
 ## Course Outcome:
 At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google playstore and publish their assignments to the blogs as a benchmark examples for the world wide developers.
 
-## Full Syllabus:
+# Full Syllabus:
 
-# Introduction To Mobile Apps [Quiz 1]
+## Introduction To Mobile Apps [Quiz 1]
    1) Why we Need Mobile Apps
    2) Different Kinds of Mobile Apps
    3) Briefly about Android
 
-# Introduction Android [Quiz 2]
+## Introduction Android [Quiz 2]
 
   1) History Behind Android Development
   2) What is Android?
   3) Pre-requisites to learn Android
   4) Brief Discussion on Java Programming
 
-# Android Architecture [Quiz 3]
+## Android Architecture [Quiz 3]
 
    1) Overview of Android Stack
    2) Android Features
    3) Introduction to OS layers
 
-# Deep Overview in Android Stack [Quiz 4]
+## Deep Overview in Android Stack [Quiz 4]
 
    1) Linux Kernel
    2) Libraries
@@ -31,14 +31,14 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Application Framework
    5) Dalvik VM
 
-# Installing Android Machine [Assignment 1]
+## Installing Android Machine [Assignment 1]
 
   1) Configuring Android Stack
   2) Setting up Android Studio
   3) Working with Android Studio
   4) Using Older Android Tools
 
-# Creating First Android Application [Assignment 2]
+## Creating First Android Application [Assignment 2]
 
    1) Creating Android Project
    2) Debugging Application through DDMS
@@ -46,20 +46,20 @@ At the end on this course the students will gain enough knowledge to create and 
    4) AVD Creation
    5) Executing Project on Android Screen
 
-# Android Components [Assignment 3]
+## Android Components [Assignment 3]
 
    1) Activities
    2) Services
    3) Broadcast Receivers
    4) Content Providers
 
-# Hello World App [Assignment 4]
+## Hello World App [Assignment 4]
    1) Creating your first project
    2) Manifest file
    3) Layout resource
    4) Running your app on Emulator
 
-# Building UI with Activities [Assignment 5]
+## Building UI with Activities [Assignment 5]
 
    1) Activities
    2) Views, layouts and Common UI components
@@ -68,7 +68,7 @@ At the end on this course the students will gain enough knowledge to create and 
    5) Intents
    6) Communicating data among Activities
 
-# Advanced UI [Assignment 6]
+## Advanced UI [Assignment 6]
 
    1) Selection components (GridView, ListView, Spinner )
    2) Adapters, Custom Adapters
@@ -77,13 +77,13 @@ At the end on this course the students will gain enough knowledge to create and 
    5) Menus
    6) Creating custom and compound Views
 
-# Notifications [Assignment 7]
+## Notifications [Assignment 7]
 
    1) Toast, Custom Toast
    2) Dialogs
    3) Status bar Notifications
 
-# Multithreading [Assignment 8]
+## Multithreading [Assignment 8]
 
    1) Using Java Mutithreading classes
    2) AsyncTask
@@ -91,20 +91,20 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Post
    5) Writing an animated game
 
-# Styles And Themes [Assignment 9]
+## Styles And Themes [Assignment 9]
 
    1) Creating and Applying simple Style
    2) Inheriting built-in Style and User defined style
    3) Using Styles as themes
 
-# Resources and Assets [Assignment 10]
+## Resources and Assets [Assignment 10]
 
    1) Android Resource
    2) Using resources in XML and code
    3) Localization
    4) Handling Runtime configuration changes
 
-#  Intent, Intent Filters and Broadcast Receivers [Assignment 11]
+##  Intent, Intent Filters and Broadcast Receivers [Assignment 11]
 
    1) Role of filters
    2) Intent-matching rules
@@ -112,13 +112,13 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Filters in dynamic Broadcast Receivers
    5) Creating Broadcast receiver
 
-# Receiving System Broadcast [Assignment 12]
+## Receiving System Broadcast [Assignment 12]
 
    1) Understanding Broadcast action, category and data
    2) Registering Broadcast receiver through code and through XML
    3) Sending Broadcast
 
-# Data Storage [Assignment 13]
+## Data Storage [Assignment 13]
 
    1) Shared Preferences
    2) Android File System
@@ -130,7 +130,7 @@ At the end on this course the students will gain enough knowledge to create and 
    8) Opening and closing adatabase
    9) Working with cursors Inserts, updates, and deletes
 
-# Network [Assignment 14]
+## Network [Assignment 14]
 
 ## Content Providers [Assignment 15]
    1) Accessing built in content providers
@@ -140,51 +140,51 @@ At the end on this course the students will gain enough knowledge to create and 
    5) Creating content provider
    6) Working with content files
 
-# Services [Assignment 16]
+## Services [Assignment 16]
    1) Overview of services in Android
    2) Implementing a Service
    3) Service lifecycle
    4) Inter Process Communication (AIDL Services)
 
-# Multimedia in Android [Assignment 17]
+## Multimedia in Android [Assignment 17]
 
    1) Multimedia Supported audio formats
    2) Simple media playback
    3) Supported video formats
    4) Simple video playback
 
-# Location Based Services and Google Maps [Assignment 18]
+## Location Based Services and Google Maps [Assignment 18]
 
-1) Using Location Based Services
-2) Finding current location and listening for changes in location
-3) Proximity alerts
-4) Working with Google Maps
-   i. Showing google map in an Activity
-   ii. Map Overlays
-   iii. Itemized overlays
-   iv. Geocoder
-5)Displaying route on map
+   1) Using Location Based Services
+   2) Finding current location and listening for changes in location
+   3) Proximity alerts
+   4) Working with Google Maps
+      i. Showing google map in an Activity
+      ii. Map Overlays
+      iii. Itemized overlays
+      iv. Geocoder
+   5)Displaying route on map
 
-# Web Services and WebView [Assignment 19]
+## Web Services and WebView [Assignment 19]
 
    1) Consuming web services
    2) Receiving HTTP Response (XML, JSON )
    3) Parsing JSON and XML
    4) Using WebView
 
-# Sensors [Assignment 20]
+## Sensors [Assignment 20]
 
    1) How Sensors work
    2) Using Orientation and Accelerometer sensors
    3) Best practices for performance
 
-# WiFi [Assignment 21]
+## WiFi [Assignment 21]
 
    1) Monitoring and managing Internet connectivity
    2) Managing active connections
    3) Managing WiFi networks
 
-# Telephony Services [Assignment 22]
+## Telephony Services [Assignment 22]
 
    1) Making calls
    2) Monitoring data connectivity and activity
@@ -192,26 +192,26 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Controlling the phone
    5) Eending messages
 
-# Camera [Assignment 23]
+## Camera [Assignment 23]
 
    1) Taking pictures
    2) Media Recorder
    3) Rendering previews
 
-# Bluetooth [Assignment 24]
+## Bluetooth [Assignment 24]
 
    1) Controlling local Bluetooth device
    2) Discovering and bonding with Bluetooth devices
    3) Managing Bluetooth connections
    4) Communicating with Bluetooth
 
-#  More [Assignment 25]
+##  More [Assignment 25]
    1) Fragments
    2) Material Design
    3) Gradle
    4) NEW TOPICS: Since each new version of Android has new features, we keep extra time for adding custom topics in every batch. You can request any Android Topic.
 
-# Android Application Deployment [Assignment 26]
+## Android Application Deployment [Assignment 26]
 
    1) Android Application Deployment on device with Linux and Windows
    2) Android Application Deployment on Android Market
