@@ -1,4 +1,4 @@
-# Android                                                                  Duration: 4 Weeks
+# Android Revised plan                                                                 Duration: 4 Weeks
 
 ## Course Outcome:
 At the end on this course the students will gain enough knowledge to create and publish their own Apps for Google playstore and publish their assignments to the blogs as a benchmark examples for the world wide developers.
@@ -146,14 +146,9 @@ At the end on this course the students will gain enough knowledge to create and 
    3) Service lifecycle
    4) Inter Process Communication (AIDL Services)
 
-## Multimedia in Android [Assignment 17]
 
-   1) Multimedia Supported audio formats
-   2) Simple media playback
-   3) Supported video formats
-   4) Simple video playback
 
-## Location Based Services and Google Maps [Assignment 18]
+## Location Based Services and Google Maps [Assignment 17]
 
    1) Using Location Based Services
    2) Finding current location and listening for changes in location
@@ -165,26 +160,48 @@ At the end on this course the students will gain enough knowledge to create and 
       iv. Geocoder
    5)Displaying route on map
 
-## Web Services and WebView [Assignment 19]
+## Web Services and WebView [Assignment 18]
 
    1) Consuming web services
    2) Receiving HTTP Response (XML, JSON )
    3) Parsing JSON and XML
    4) Using WebView
 
-## Sensors [Assignment 20]
+
+
+## Camera [Assignment 19]
+
+   1) Taking pictures
+   2) Media Recorder
+   3) Rendering previews
+
+## Android Application Deployment [Assignment 20]
+
+   1) Android Application Deployment on device with Linux and Windows
+   2) Android Application Deployment on Android Market
+
+
+## Revised Plan for Beginners
+## Multimedia in Android [Assignment 1]
+
+   1) Multimedia Supported audio formats
+   2) Simple media playback
+   3) Supported video formats
+   4) Simple video playback
+
+## Sensors [Assignment 2]
 
    1) How Sensors work
    2) Using Orientation and Accelerometer sensors
    3) Best practices for performance
 
-## WiFi [Assignment 21]
+## WiFi [Assignment 3]
 
    1) Monitoring and managing Internet connectivity
    2) Managing active connections
    3) Managing WiFi networks
 
-## Telephony Services [Assignment 22]
+## Telephony Services [Assignment 4]
 
    1) Making calls
    2) Monitoring data connectivity and activity
@@ -192,33 +209,19 @@ At the end on this course the students will gain enough knowledge to create and 
    4) Controlling the phone
    5) Eending messages
 
-## Camera [Assignment 23]
-
-   1) Taking pictures
-   2) Media Recorder
-   3) Rendering previews
-
-## Bluetooth [Assignment 24]
+## Bluetooth [Assignment 5]
 
    1) Controlling local Bluetooth device
    2) Discovering and bonding with Bluetooth devices
    3) Managing Bluetooth connections
    4) Communicating with Bluetooth
 
-##  More [Assignment 25]
+##  More [Assignment 6]
    1) Fragments
    2) Material Design
    3) Gradle
    4) NEW TOPICS: Since each new version of Android has new features, we keep extra time for adding custom topics in every batch. You can request any Android Topic.
-
-## Android Application Deployment [Assignment 26]
-
-   1) Android Application Deployment on device with Linux and Windows
-   2) Android Application Deployment on Android Market
-
-
-
-
+   
 # Mile Stones
 ## December
 
